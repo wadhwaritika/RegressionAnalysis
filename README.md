@@ -6,3 +6,8 @@ With the ever-increasing usability of plastic, we start exploiting it, which has
 Following that, we will introduce another dependent variable, Population of a Country, and perform a Multiple Linear Regression and see if it improves the model for prediction of Per Capita Plastic Waste.
 Our objective is to find a regression model that best fits the variables GDP and Population to predict Per Capita Plastic Waste.
 Once we understand factors that are related to generation of plastic waste, we can work on finding ways to reduce plastic generation or finding better ways of waste disposal and reusability of plastic.
+
+#### Dataset:
+The dataset was found on https://ourworldindata.org/plastic-pollution
+
+#### Tools Used: MS Excel, IBM SPSS
